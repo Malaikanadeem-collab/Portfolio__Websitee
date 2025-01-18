@@ -1,0 +1,19 @@
+{
+  "name": "portfolio__websitee",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malaikanadeem-collab/Portfolio__Websitee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malaikanadeem-collab/Portfolio__Websitee/issues"
+  },
+  "homepage": "https://github.com/Malaikanadeem-collab/Portfolio__Websitee#readme",
+  "description": ""
+}
