@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fbe9e7;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #d32f2f;
+    padding: 1rem;
+}
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.about {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+.about h1 {
+    color: #d32f2f;
+    font-size: 2.5rem;
+}
+.about p {
+    color: #5d4037;
+    font-size: 1.2rem;
+}
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #d32f2f;
+    color: white;
+}
